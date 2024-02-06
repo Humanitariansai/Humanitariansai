@@ -6,6 +6,10 @@ humanitarians.ai
 
 *Add a couple of quotes*
 
+“Over time, AI will be the biggest technological shift we see in our lifetimes,” Pichai wrote. “It's bigger than the shift from desktop computing to mobile, and it may be bigger than the internet itself. It's a fundamental rewiring of technology and an incredible accelerant of human ingenuity.   - Sundar Pichai, Google CEO
+
+
+
 
 
 ## Our Mission
