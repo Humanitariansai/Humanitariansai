@@ -25,3 +25,7 @@ We aim to **bridge the gap** between technology and humanitarian efforts through
 - **Inclusivity and Accessibility**: We are committed to breaking down barriers to technology access, ensuring that our programs and resources are available to everyone, regardless of their financial situation.
 
 - **Learning by Doing**: We champion practical, hands-on experience in learning and applying AI and technology for social good, nurturing a cycle of continuous learning and improvement.
+
+## Projects
+
+
