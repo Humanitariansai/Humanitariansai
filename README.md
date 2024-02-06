@@ -4,6 +4,10 @@ AI is on the verge of transforming both education and the economy. Humans need t
 humanitarians.ai
 
 
+*Add a couple of quotes*
+
+
+
 ## Our Mission
 
 To **empower individuals** with the knowledge and skills to leverage technology for the betterment of their lives and society. We are committed to developing open-source software and educational materials that enable anyone to enhance their quality of life through technology, making a positive impact on the world.
